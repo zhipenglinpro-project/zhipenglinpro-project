@@ -108,6 +108,6 @@ Relevant Areas:
 
 ## 📫 Contact
 
-- LinkedIn: linkedin.com/in/zhipeng-lin-chris
+- LinkedIn: https://www.linkedin.com/in/zhipeng-lin-chris/
 - GitHub: https://github.com/zhipenglinpro-project
 - Email: zhipenglinpro@gmail.com
