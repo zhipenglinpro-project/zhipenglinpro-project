@@ -1,16 +1,31 @@
 # Hi, I'm Zhipeng Lin 👋
 
-AI Application Engineer focused on building production-style AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, Docker, and modern backend technologies.
+📍 Dublin, Ireland
 
-M.Sc. Applied Social Data Science graduate from Trinity College Dublin with hands-on experience in AI application development, backend engineering, NLP, machine learning, and data analytics.
+AI Application Engineer building production-style AI applications with LLMs, Retrieval-Augmented Generation (RAG), FastAPI, Docker, and modern backend technologies.
 
-Currently building practical AI applications with a strong focus on engineering, deployment, evaluation, and maintainability.
+🔹 M.Sc. Applied Social Data Science, Trinity College Dublin
+
+🔹 Focus Areas: Generative AI, RAG Systems, AI Agents, Backend Engineering, Data Analytics
+
+🔹 Currently developing AI-powered applications with an emphasis on engineering quality, testing, evaluation, and deployment.
 
 ---
 
+🎯 What I’m Currently Learning
+
+* Advanced RAG Architectures
+* AI Agent Design Patterns
+* LLM Evaluation & Testing
+* CI/CD for AI Applications
+* Cloud Deployment Strategies
+
+---
 ## 🚀 Featured Projects
 
 ### 🤖 Multi-tool RAG AI Assistant
+
+Status: Active | Evaluation: 9/9 Scenarios Passed | CI/CD Enabled
 
 A production-style Retrieval-Augmented Generation (RAG) system supporting document upload, semantic retrieval, reranking, grounded generation, multi-tool routing, Docker deployment, and provider switching.
 
@@ -36,6 +51,11 @@ https://github.com/zhipenglinpro-project/rag-chatbot
 
 ### 📊 AI Data Analysis Assistant
 
+Status: Live Demo Available
+
+🔗 Demo:
+https://ai-data-analysis-assistant-nqxrmeyyxdmhhlndnjwzr6.streamlit.app
+
 AI-powered data analysis application that converts natural language questions into structured analytical operations and generates business insights from uploaded datasets.
 
 **Tech Stack**
@@ -44,6 +64,7 @@ Python · Pandas · Plotly · Streamlit · Ollama
 
 **Highlights**
 
+- Structured JSON → Deterministic Pandas Execution
 - Natural Language Query Parsing
 - Structured JSON Generation
 - Automated Data Analysis
@@ -61,6 +82,7 @@ https://github.com/zhipenglinpro-project/AI-Data-Analysis-Assistant
 ### AI / LLM
 
 - Retrieval-Augmented Generation (RAG)
+- AI Agents
 - LangChain
 - Prompt Engineering
 - Ollama
@@ -74,6 +96,7 @@ https://github.com/zhipenglinpro-project/AI-Data-Analysis-Assistant
 - FastAPI
 - REST APIs
 - Pydantic
+- API Integration
 
 ### Data & Analytics
 
@@ -88,6 +111,9 @@ https://github.com/zhipenglinpro-project/AI-Data-Analysis-Assistant
 - Docker Compose
 - Git
 - GitHub
+- GitHub Actions
+- CI/CD
+- Automated Testing
 
 ---
 
